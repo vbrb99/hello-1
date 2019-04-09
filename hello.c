@@ -2,7 +2,10 @@
 #include <stdlib>
 
 int main(){
-printf("Hello World");
+	char nume [10];
+	scanf("%s",nume);
+
+printf("Hello %s! \n", nume);
 return 0;
 
 }
