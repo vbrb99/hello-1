@@ -6,6 +6,7 @@ int main(){
 	scanf("%s",nume);
 
 printf("Hello %s! \n", nume);
+printf("te-am furat");
 return 0;
 
 }
